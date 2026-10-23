@@ -1,0 +1,38 @@
+cut,start,dur,frame,keyframe,prompt,note
+1,0:00,6,start,kf_01,"Static wide shot. Stars twinkle slowly, grass sways gently in the night breeze, the house window light flickers faintly. No characters, no camera movement.",오프닝 머무는 컷
+2,0:06,5,start,kf_02,"Static camera. The child slowly turns the screwdriver on the robot's arm joint with small hand motion. The robot's cyan eyes blink once. Headlamp light wobbles slightly on the ground.",손 동작 작게
+3,0:11,5,start,kf_03,"Static top-down camera. The hands stay touching. Only the headlamp light softly breathes on the grass and the grass sways slightly.",정지 컷 (Kling 테스트 통과)
+4,0:16,5,start,kf_04,"Static camera. The two figures stand still looking up. Stars twinkle, tree leaves rustle gently, very slow subtle push-in.",하늘①
+5,0:21,4,start,kf_05,"Static camera. A single meteor streaks slowly across the sky from upper right to lower left, leaving a faint pale-purple trail that fades. Stars twinkle.",유성 낙하 방향 = 키프레임 꼬리 방향
+6,0:25,5,start,kf_06,"Static camera. The child's eyes widen and mouth opens slightly in surprise; the robot's head tilts up a little and its eyes flicker. A faint light grows beyond the hill in the background.",놀람
+7,0:30,5,start,kf_07,"Camera pans slowly to the right following the child running across the hill, the robot rolling behind on its wheels. Headlamp beam bounces with each step. Grass streams past.",유일한 팬 컷
+8,0:35,5,start,kf_08,"Slow tilt up from the two figures to the pod hanging in the tree. The pod's purple glow pulses softly, branches sway. The figures stay still.",틸트업
+9,0:40,5,start,kf_09,"Static close-up. Inside the frosted glass of the pod, a small dark silhouette shifts slowly. The purple glow pulses. Light flickers on the rusted rim.",실루엣만
+10,0:45,4,start,kf_10,"Static camera. The child takes one small step backward, the headlamp beam jitters. The robot stays still. Leaves above sway slightly.",물러섬
+11,0:49,3,start,kf_11,"Static extreme close-up of the CRT screen. The two eye lamps flicker; the right eye shifts between cyan and pale purple with soft scanline flicker.",동조 — 색 변화만
+12,0:52,3,start,kf_12,"Static close-up. The pod's inner glow fades out completely over the clip, leaving dull grey frosted glass. The silhouette inside disappears. Branches still.",빛 꺼짐 → 편집에서 1초 무음
+13,0:55,4,start,kf_13,"Static camera. The pod's bottom hatch swings open and the small rock alien drops straight down onto the grass with a soft bounce; grass puffs up around it. The pod stays dark.",0:55 드럼 강타
+14,0:59,5,start,kf_14,"Static close-up. The crack on the rock alien slowly opens wider and the purple light inside brightens; two small eyes appear in the gap. Grass sways.",밝아짐
+15,1:04,5,start,kf_15,"Static camera. The robot rolls forward slowly toward the alien, stopping close. The alien's crack narrows briefly, then opens again. The child stays still.",로봇 전진
+16,1:09,5,start,kf_16,"Static wide shot. The child walks slowly from the left to join the robot, forming a semicircle with the alien. Headlamp beam moves with her. Small figures, keep the wide composition.",아이 합류
+17,1:14,6,start,kf_17,"Static low-angle wide shot. The three figures stand still looking up at the dark pod. Branches sway in the wind, stars twinkle.",머무는 컷
+18,1:20,4,start,kf_18,"Static camera. The child leans in slightly and the headlamp beam sweeps across the pod's engine socket. The robot's arm points and taps once. The alien stays curled.",살펴봄
+19,1:24,4,start,kf_19,"Static camera. The robot's hose arm slowly pulls the small engine unit out of the pod's socket and lifts it up. The engine's purple tip glows softly. The pod stays dark.",거울 구도 A
+20,1:28,4,start,kf_20,"Static camera. The three walk forward toward the house with slow steps, backs to camera. The robot holds the engine in front of its chest. Morning mist drifts across the grass.",걷기 뒷모습
+21,1:32,4,start,kf_21,"Static close-up. The child's hand turns the screwdriver in small motions on the engine unit; the robot's claw holds it steady. Hair moves slightly in the breeze.",손 동작 작게
+22,1:36,4,start,kf_22,"Static wide shot. The engine's purple light on the table brightens gently and pulses. The three look at it; the alien's head bobs up a little over the table edge. Sunset sky slowly darkens.",빛 또렷해짐
+23,1:40,5,start,kf_23,"Static over-the-shoulder shot. The robot in the middle distance stops; its cyan eyes dim and flicker slowly, its body tilts a little to one side. The child and alien in the foreground stay turned toward it.",1:40 급락
+24,1:45,5,start,kf_24,"Static close-up of the dark CRT screen. A faint purple reflection drifts across the glass, then the screen goes completely black. Nothing else moves.",꺼짐
+25,1:50,5,start,kf_25,"Static camera. The child turns the dead battery over in her hands, looks into the open door, then lowers her hands. The headlamp beam shifts with her head. The robot stays motionless.",반응 없음
+26,1:55,5,start,kf_26,"Static wide shot. Nothing moves except the grass and the faint pulse of the engine light on the ground. The child keeps her head down.",정적
+27,2:00,5,start,kf_27,"Static wide shot. The alien stands still looking up at the sky. Stars twinkle, grass sways. Very slow subtle push-in.",하늘②
+28,2:05,4,start,kf_28,"Static close-up. The alien's rock hands slowly lift the glowing engine from the grass up toward its chest. Purple light spreads inside its crack and the crack opens slightly.",2:05 복귀
+29,2:09,4,start,kf_29,"Static wide shot. The alien lowers its head slightly, looking at the empty socket of its dark pod, holding the engine. Then it turns its body a little toward the left. Leaves rustle.",돌아섬
+30,2:13,4,start,kf_30,"Static camera. The rock alien walks slowly to the right, waddling step by step, hugging the glowing engine against its chest. The purple light sways on the grass with each step.",걷기
+31,2:17,5,start,kf_31,"Static camera. The alien pushes the engine the rest of the way into the socket inside the open door. Purple light floods the inside of the door and spills onto the grass. The robot stays still.",거울 구도 B
+32,2:22,4,start,kf_32,"Static extreme close-up of the CRT screen. Two pale-purple eye lamps fade in from black with a soft scanline flicker, then hold steady and bright.",켜짐
+32a,2:26,4,start,kf_32a,"Static camera. The child hugs the robot tightly, shoulders shaking a little. The robot's purple eyes glow steadily. The rock alien waddles over from the left and leans gently against the child's back.",외계인 툭 기댐
+32b,2:30,4,start,kf_32b,"Static low-angle shot. The robot's arm hooks the pod's ring onto the branch while the child pushes the pod up from below; the pod settles and sways gently like a lantern. The alien looks up.",등불 복귀
+33,2:34,4,start,kf_33,"Static top-down camera. The three hands stay stacked together. The robot's purple eyes and the alien's crack glow softly; the headlamp light breathes on the grass.",정지 컷
+34,2:38,6,start,kf_34,"Static wide shot. The three stand still looking up. The hanging pod sways very slightly, stars twinkle, grass moves in the breeze. Very slow subtle push-in.",하늘③
+35,2:44,8,start,kf_35,"Static wide shot. Stars twinkle, grass sways, the house window light flickers. Under the tree, three tiny lights (white, purple, purple) blink gently. The hanging pod glows faintly.",엔딩 — 편집에서 34→35 줌아웃 연결 + 타이틀 페이드

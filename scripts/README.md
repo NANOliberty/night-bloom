@@ -1,0 +1,3 @@
+- `analyze_music.py <wav>` — 1초 단위 RMS·드럼 에너지·밝기 출력, 클라이맥스/최저점 시각. 의존: librosa, numpy
+- `process_clips.sh` — Veo 클립 일괄 후처리 (워터마크 delogo, 오디오 제거, crf 10 재인코딩, 2번 업스케일, 12·13 배속, 15·22 보간 늘리기). 의존: ffmpeg
+- `motion_prompts.csv` — 컷 번호, 시작 시각, 길이, 키프레임 파일, 영상 프롬프트, 비고
