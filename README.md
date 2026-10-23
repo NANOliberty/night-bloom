@@ -6,7 +6,7 @@
 
 2026 제2회 AI·SW 창작 콘텐츠 공모전(숭실대 스파르탄AI교육원) 영상 부문 출품작.
 
-- **영상**: [YouTube 영상 링크](YOUTUBE_LINK) · 2m 52s · 1080p
+- **영상**: [YouTube 영상 링크](https://www.youtube.com/watch?v=mrFbV311Eiw) · 2m 52s · 1080p
 - 기간: 2026.10.15 ~ 10.24 (10일) · 1인
 
 <br>
