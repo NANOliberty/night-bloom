@@ -30,7 +30,7 @@
   </tr>
   <tr>
     <td align="center">#11 빛을 받은 로봇의 눈</td>
-    <td align="center">#6 아이와 로봇 놀란 모습</td>
+    <td align="center">#6 아이와 로봇의 놀란 모습</td>
   </tr>
 </table>
 
